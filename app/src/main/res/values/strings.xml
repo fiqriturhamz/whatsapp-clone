@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="tab_text_0">CHAT</string>
+    <string name="tab_text_1">STATUS</string>
+    <string name="tab_text_2">PANGGILAN</string>
+    <string name="hello_blank_fragment">hello</string>
+    <string name="user">User</string>
+    <string name="detail_chat">Detail Chat</string>
+    <string name="date">12/06/22</string>
+    <string name="title">User</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="search">Search</string>
+    <string name="caller">Caller</string>
+    <string name="myStatus">Status saya</string>
+    <string name="addStatus">Tap to add status</string>
+    <string name="no_feature">Sorry,feature will be added later</string>
+</resources>
